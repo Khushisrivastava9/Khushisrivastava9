@@ -8,3 +8,4 @@
 Khushisrivastava9/Khushisrivastava9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Khushisrivastava9's GitHub | Languages Over Time](https://stats.quine.sh/Khushisrivastava9/languages-over-time?theme=light)](https://quine.sh)
