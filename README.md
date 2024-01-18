@@ -7,12 +7,15 @@
 </p>
 
 ###
+
 - 👋 Hi, I’m @Khushisrivastava9
 - 👀 I’m interested in learning and improving...
 - 🌱 I’m currently learning in Vit bhopal University...
 - 💞️ I’m looking to collaborate on different coding parts...
 - 📫 How to reach me through my mail id khushisrivastava992003...
+  
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -33,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Khushisrivastava9&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
