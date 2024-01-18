@@ -8,6 +8,11 @@
 - 💞️ I’m looking to collaborate on different coding parts...
 - 📫 How to reach me through my mail id khushisrivastava992003...
 
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Khushisrivastava9&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+</div>
+
 <!---
 Khushisrivastava9/Khushisrivastava9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
