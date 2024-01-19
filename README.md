@@ -42,25 +42,40 @@
 
 ###
 
-### 📊 GitHub Stats:
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
 <div>
 ![](https://github-readme-stats.vercel.app/api?username=Khushisrivastava9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khushisrivastava9&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushisrivastava9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
+###
 
-### 🏆 GitHub Trophies
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+### 
+
 <div>
 ![](https://github-profile-trophy.vercel.app/?username=Khushisrivastava9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-### ✍️ Random Dev Quote
+###
+
+<h2 align="left">✍️ Random Dev Quote</h2>
+
+### 
 <div>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-### 🔝 Top Contributed Repo
+###
+
+<h2 align="left">🔝 Top Contributed Repo</h2>
+
+### 
 <div>
 ![](https://github-contributor-stats.vercel.app/api?username=Khushisrivastava9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
