@@ -15,7 +15,6 @@
 - 📫 How to reach me **khushisrivastava992003@gmail.com**...
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushisrivastava9&label=Profile%20views&color=f5246d&style=flat" alt="Khushisrivastava9" /> </p>
 <h2 align="left">Connect with me:</h2>
 
 ###
